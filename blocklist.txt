@@ -4,3 +4,5 @@ pangle.io
 i18n-pglstatp.com
 applovin.com
 rayjump.com
+rt.applovin.com
+ms.applovin.com
